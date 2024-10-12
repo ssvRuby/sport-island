@@ -1,3 +1,5 @@
 
 wp-config.php
 assets/img
+
+#git push -u origin main
